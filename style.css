@@ -10,11 +10,12 @@ padding: 0;
 
 
   body{
-
 background: url(images/1.jpg);
 background-size:cover ;
 background-repeat: no-repeat;
-background-attachment: fixed;  }
+background-attachment: fixed; 
+background-position: conter;
+}
 
 .wrapper{
   display: flex;
